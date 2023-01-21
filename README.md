@@ -170,7 +170,8 @@ No known bugs at this time.
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 Phoshoko Thabang - [Github](https://github.com/PhoshokoTd)
-Sunday Jimoh
+
+Sunday Jimoh - [Github](https://github.com/sunday4me) / [Twitter](https://twitter.com/sunnet4me)
 
 Second part of Airbnb: Joann Vuong
 ## License
